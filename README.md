@@ -1,1 +1,1 @@
-# Dice-Roll-App
+# This is a Roll Dice App where numbers will be generated randomly on the dice.
